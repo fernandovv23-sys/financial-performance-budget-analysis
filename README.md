@@ -59,6 +59,8 @@ This separation keeps the summary focused while enabling root-cause analysis.
 * Variance % calculated using weighted totals (total actual vs total budget)
 * MoM growth calculated with lag functions
 
+* Data was generated and modeled for analysis using SQL and aggregated to monthly grain for dashboarding.
+
 
 
 **Tools \& Skills**
@@ -86,4 +88,5 @@ This separation keeps the summary focused while enabling root-cause analysis.
 
 
 https://public.tableau.com/views/FinancialPerformanceBudgetAnalysis/ExecutiveSummary?:language=en-US\&:sid=\&:redirect=auth\&:display\_count=n\&:origin=viz\_share\_link
+
 
